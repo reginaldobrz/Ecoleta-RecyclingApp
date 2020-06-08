@@ -9,7 +9,7 @@
 
 🚀 This project was developed basicaly to study and anderstand some tecnologies like React, TypeScript, Node, JavaScript, Css, Html and React Native. But you can use to implement some feature and go to production, fell free! I am doind this 🤓.
 
-## 💻 Introduction 
+## 🗒 Introduction 
 For this project we have three diferent projects, one of them is our Mobile project the other is our Server project and the last one is our Web project! 
 
 * 🖥 Web Project : This project is a way to integrate our aplication into web like a diferent tool, let's me explain better. With this project you will have a portal to register new collect points. And see some informations about all the existed points!
@@ -68,7 +68,18 @@ If every things ok, in a feel moments the application will be runing on your pho
 
 That's all!
 
-## 💡 WHERE I FOUND THIS?
+## 💡 Where i found this
 
 This is a 'Next Level Week' project from 'Rocketseat'developed by me ! 
+
+## 🧙🏻‍♀️ Contributors
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/Rocketseat"><img itemprop="image" class="TableObject-item avatar flex-shrink-0" src="https://avatars0.githubusercontent.com/u/28929274?s=200&amp;v=4" width="200" height="200" alt="@Rocketseat"><br /><sub><b>Rocketseat</b></sub></a><br />💻</a></td>
+  </tr>
+</table>
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
