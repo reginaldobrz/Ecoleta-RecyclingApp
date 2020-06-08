@@ -68,11 +68,9 @@ If every things ok, in a feel moments the application will be runing on your pho
 
 That's all!
 
-## 💡 Where i found this
+## 🧙🏻‍♀️  Where i found this
 
 This is a 'Next Level Week' project from 'Rocketseat'developed by me ! 
-
-## 🧙🏻‍♀️ Contributors
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
 <table>
