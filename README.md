@@ -1,5 +1,6 @@
-[![npm version](https://badge.fury.io/js/node-shield.svg)](https://badge.fury.io/js/node-shield)
-[![Build Status](https://travis-ci.com/panga/node-shield.svg?branch=master)](https://travis-ci.com/panga/node-shield)
+
+
+[![npm version](https://img.shields.io/node/v/ts-node)](https://img.shields.io/node/v/ts-node)
 
 # Ecoleta - Project to controll the collection points for recycling
 
