@@ -68,6 +68,9 @@ If every things ok, in a feel moments the application will be runing on your pho
 
 That's all!
 
+## There is how its mobile work
+![Farmers Market Finder Demo](https://github.com/reginaldobrz/Ecoleta/blob/master/ecoleta.gif)
+
 ## 🧙🏻‍♀️  Where i found this
 
 This is a 'Next Level Week' project from 'Rocketseat'developed by me ! 
