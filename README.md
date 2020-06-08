@@ -1,6 +1,7 @@
 
 
-[![npm version](https://img.shields.io/node/v/ts-node)](https://img.shields.io/node/v/ts-node)
+[![npm version](https://img.shields.io/node/v/ts-node)](https://www.npmjs.com/)
+[![npm version](https://img.shields.io/npm/v/npm-packlist)](https://docs.npmjs.com/files/package.json)
 
 # Ecoleta - Project to controll the collection points for recycling
 
