@@ -3,11 +3,11 @@
 </h1>
 
 <p align="center">
-  <a href="🚀-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="🗒-Introduction ">Introduction</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="💻-Steps-to-run-this-project">Steps</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="📲-There-is-how-its-mobile-work">Working</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="🧙🏻‍♀️-Where-i-found-this">Inspirations</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-🗒-Introduction ">Introduction</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-💻-Steps-to-run-this-project">Steps</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-📲-There-is-how-its-mobile-work">Working</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-🧙🏻‍♀️-Where-i-found-this">Inspirations</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </p>
 
@@ -17,11 +17,9 @@
 <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=7159c1&labelColor=000000">
   </p>
 
-# Ecoleta - Project to controll the collection points for recycling
-
 ![Alt text](https://github.com/reginaldobrz/Ecoleta/blob/master/.github/ecoleta.png)
 
-🚀 This project was developed basicaly to study and anderstand some tecnologies like React, TypeScript, Node, JavaScript, Css, Html and React Native. But you can use to implement some feature and go to production, fell free! I am doind this 🤓.
+🚀 Ecoleta - A project to controll the collection points for recycling.This project was developed basicaly to study and anderstand some tecnologies like React, TypeScript, Node, JavaScript, Css, Html and React Native. But you can use to implement some feature and go to production, fell free! I am doind this 🤓.
 
 ## 🚀 Technologies
 This project was developed with this following tecnologies:
