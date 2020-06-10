@@ -19,7 +19,7 @@
 
 ![Alt text](https://github.com/reginaldobrz/Ecoleta/blob/master/.github/ecoleta.png)
 
-🚀 Ecoleta - A project to controll the collection points for recycling.This project was developed basicaly to study and anderstand some tecnologies like React, TypeScript, Node, JavaScript, Css, Html and React Native. But you can use to implement some feature and go to production, fell free! I am doind this 🤓.
+Ecoleta - A project to controll the collection points for recycling.This project was developed basicaly to study and anderstand some tecnologies like React, TypeScript, Node, JavaScript, Css, Html and React Native. But you can use to implement some feature and go to production, fell free! I am doind this 🤓.
 
 ## 🚀 Technologies
 This project was developed with this following tecnologies:
