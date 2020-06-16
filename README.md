@@ -109,6 +109,6 @@ This is a 'Next Level Week' project from 'Rocketseat'developed by me !
 
 ## :memo: License
 
-This project use the MIT license. Look at this archive [LICENSE](LICENSE.md) to more details.
+This project use the MIT license. Look at this archive [LICENSE](LICENSE) to more details.
 
 
