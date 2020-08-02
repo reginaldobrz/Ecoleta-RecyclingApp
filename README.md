@@ -14,7 +14,7 @@
 <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=7159c1&labelColor=000000">
   </p>
 
-![Alt text](https://github.com/reginaldobrz/Ecoleta/blob/master/.github/ecoleta.png)
+![Alt text](https://github.com/reginaldobrz/Ecoleta-RecyclingApp/blob/master/.github/ecoleta.svg)
 
 Biblioteca digital - É um projeto com intuito de registrar a opinião dos leitores a respeito dos exemplares, tanto em conteudo quanto o estado fisico do livro 🤓.
 
