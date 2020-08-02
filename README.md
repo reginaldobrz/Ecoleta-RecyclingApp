@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Ecoleta" title="Ecoleta" src="https://github.com/reginaldobrz/LibraryControll/blob/master/frontend/src/assets/logo.png" width="220px" />
+    <img alt="Ecoleta" title="Ecoleta" src="https://github.com/reginaldobrz/Ecoleta-RecyclingApp/blob/master/.github/ecoleta.svg" width="220px" />
 </h1>
 <p align="center">
   <a href="#-technologies">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -14,7 +14,7 @@
 <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=7159c1&labelColor=000000">
   </p>
 
-![Alt text](https://github.com/reginaldobrz/Ecoleta-RecyclingApp/blob/master/.github/ecoleta.svg)
+![Alt text](https://github.com/reginaldobrz/Ecoleta-RecyclingApp/blob/master/.github/ecoleta.png)
 
 Biblioteca digital - É um projeto com intuito de registrar a opinião dos leitores a respeito dos exemplares, tanto em conteudo quanto o estado fisico do livro 🤓.
 
