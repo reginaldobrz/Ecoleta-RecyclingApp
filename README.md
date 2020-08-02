@@ -84,6 +84,23 @@ If every things ok, in a feel moments the application will be runing on your pho
 
 That's all!
 
+## 📲 There is how its mobile work
+![Farmers Market Finder Demo](https://github.com/reginaldobrz/Ecoleta/blob/master/ecoleta.gif)
+
+## 🧙🏻‍♀️  Where i found this
+
+This is a 'Next Level Week' project from 'Rocketseat'developed by me ! 
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/Rocketseat"><img itemprop="image" class="TableObject-item avatar flex-shrink-0" src="https://avatars0.githubusercontent.com/u/28929274?s=200&amp;v=4" width="200" height="200" alt="@Rocketseat"><br /><sub><b>Rocketseat</b></sub></a><br />💻</a></td>
+  </tr>
+</table>
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+
 
 ## :memo: License
 
