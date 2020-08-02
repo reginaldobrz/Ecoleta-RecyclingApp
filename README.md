@@ -16,9 +16,9 @@
 
 ![Alt text](https://github.com/reginaldobrz/Ecoleta-RecyclingApp/blob/master/.github/ecoleta.png)
 
-Biblioteca digital - É um projeto com intuito de registrar a opinião dos leitores a respeito dos exemplares, tanto em conteudo quanto o estado fisico do livro 🤓.
+Ecoleta é um projeto com a intenção de diminuir os indices de poluição facilitando as coletas de residuos reciclaveis 🤓.
 
-## 🚀 Technologies
+## 🚀 technologies
 Este projéto foi desenvolvido com as seguintes tecnologias:
 
 - [.Net Core](https://dotnet.microsoft.com/)
