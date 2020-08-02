@@ -21,9 +21,9 @@ Ecoleta é um projeto com a intenção de diminuir os indices de poluição faci
 ## 🚀 technologies
 Este projéto foi desenvolvido com as seguintes tecnologias:
 
-- [.Net Core](https://dotnet.microsoft.com/)
+- [Node JS](https://nodejs.org/en/)
 - [React](https://reactjs.org)
-- [SQL-Server](https://www.microsoft.com/pt-br/sql-server?rtc=1)
+- [React Native](https://reactnative.dev/)
 
 ## 🗒 Introduction 
 For this project we have three diferent projects, one of them is our Mobile project the other is our Server project and the last one is our Web project! 
